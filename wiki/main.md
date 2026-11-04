@@ -5,4 +5,5 @@
 - [Правила сервера](/wiki/rules)
 - [Как начать играть](/wiki/start)
 
-<avatar/WelPanBit> WelPanBit
+<avatar/WelPanBit> WelPanBit 
+<avatar/Notch>
